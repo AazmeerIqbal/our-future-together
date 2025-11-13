@@ -369,8 +369,13 @@ export default function Home() {
                       ) : (
                         <div className="bg-gradient-to-r from-pink-100 to-purple-100 p-6 rounded-2xl animate-fade-in mt-4">
                           <p className="text-gray-800 text-lg md:text-xl leading-relaxed">
-                          Thankyou for always being there when I needed someone to lean on. You make moments special and amazing just by being a part of them. I am so lucky to have you in my life. 
-                          HAPPY BIRTHDAY MIYA JEE 💕
+                         
+Every moment with you feels like a small piece of our forever. We've laughed, dreamed, and grown
+together and this is just the beginning. No matter where life takes us, I'll always hold
+these memories close. You're not just my present, you're my favourite part of every tomorrow.
+<br></br>
+I MISS YOU MORE THAN YOU KNOW💕
+                         
                           
                           </p>
                         </div>
@@ -418,7 +423,7 @@ export default function Home() {
                     <p className="text-gray-600 text-lg leading-relaxed mb-8">
                       Thank you for always being there when I needed someone. You make moments feel special just by being a part of them.
                       <br></br>
-                      I MISS YOU MORE THAN YOU KNOW💕
+                      HAPPY BIRTHDAY MIYA JEE 💕
                     </p>
                     <button
                       onClick={handleReplay}
